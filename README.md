@@ -1,5 +1,5 @@
 # Python-Snake-game
-This implements. It uses turtle to create a UI for playing the snake game.
+This implements turtle to create a UI for playing the snake game.
 
 ### Getting Started
 1. Download the entire project folder and create an environment inside the folder
